@@ -28,7 +28,7 @@ export function SiteHeader() {
         <div className="flex items-center gap-6">
           <Link href="/" className="flex items-center gap-2">
             <Film className="w-6 h-6" />
-            <span className="text-xl font-bold">WatchWave</span>
+            <span className="text-xl font-bold">Cinemori</span>
           </Link>
           <nav className="hidden md:flex items-center gap-6">
             <Link

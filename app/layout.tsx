@@ -7,8 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "WatchWave - Explore Movies & TV Shows",
-  description: "Discover trending movies and TV shows with WatchWave",
+  title: "Cinemori - Explore Movies & TV Shows",
+  description: "Discover trending movies and TV shows with Cinemori",
 }
 
 export default function RootLayout({
